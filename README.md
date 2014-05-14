@@ -5,8 +5,12 @@ Doc
 DEPENDENCIES
 ------------------
 pip install south
+
 pip install django-cron
+
 pip install django-csvimport
+
 pip install django-localflavor
+
 
   
